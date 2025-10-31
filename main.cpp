@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "Greetings, Danil Zharov\n";
+    std::cout << "Greetings, Danil Zharov (number 2)\n";
 }
